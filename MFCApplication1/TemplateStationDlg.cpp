@@ -1,5 +1,6 @@
 ﻿// TemplateStationDlg.cpp: 實作檔案
 //
+//Haha
 
 #include "pch.h"
 #include "MFCApplication1.h"
